@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+}
+
+html{
+    background-color: rgb(156, 156, 156);
+}
+
+main{
+    background-color: rgb(178, 178, 178);
+}
+
+h1{
+    color: rgb(75, 20, 0);
+}
+
+h2{
+    color:rgb(150, 40, 0);
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+span{
+    color: rgb(131, 85, 0);
+    border: 3px solid rgb(255, 166, 0);
+    border-radius: 5px;
+}
+
+img{
+    border: 3px dashed black;
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(162, 106, 2);
+    border: 2px dashed orange;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+a:hover{
+    font-size: 35px;
+    border: 3px dashed rgb(255, 179, 0);
+    color: rgb(32, 23, 0);
+}
+
+a:visited{
+    color: grey;
+    border: 2px dashed grey;
+}
+
+/* li a{
+    font-size: 16px
+}
+
+li a:hover{
+    font-size: 16px;
+    border: 2px dashed rgb(255, 179, 0);
+    color: rgb(32, 23, 0);
+} */
+
+.qq{
+    font-size: 16px
+}
+
+.qq:hover{
+    font-size: 16px;
+    border: 2px dashed rgb(255, 179, 0);
+    color: rgb(32, 23, 0);
+}
