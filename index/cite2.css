@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(53, 53, 53);
+    font-family: sans-serif;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    background-color: black;
+    padding: 6px;
+    border-radius: 7px;
+    opacity: 0.7;
+}
+
+p{
+    color: rgb(255, 50, 50);
+}
+
+h1{
+    color: red;
+    background-color: black;
+    font-size: 28px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+h2 {
+    color: red;
+    background-color: black;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 6px;
+}
+
+table{
+    border: 1px solid red;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+div, table{
+    text-align: center;
+}
+
+td{
+    color:red;
+    border: 1px solid red;
+    padding: 5px;
+}
+
+img{
+    border: 1px solid red;
+    border-radius: 7px;
+}
+
+main img {
+    text-align: center;
+}
+
+header, img {
+    text-align: center;
+}
+
+li{
+    color: red;
+    list-style: url();
+}
+
+
+.ab{
+    position: fixed;
+    right: 9px;
+}
+
+a:hover {
+    opacity:1;
+}
+ 
